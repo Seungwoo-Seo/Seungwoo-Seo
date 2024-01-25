@@ -23,7 +23,7 @@
 ![MVC](https://img.shields.io/badge/MVC-EC463F?style=flat)
 ![In-Out Pattern](https://img.shields.io/badge/In--Out%20Pattern-008CBA?style=flat)
 [![Router-Pattern](https://img.shields.io/badge/Router%20Pattern-blue)](https://your-link-here)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-333333?style=flat)
+<!--![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-333333?style=flat)-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=flat&logo=github)
 
