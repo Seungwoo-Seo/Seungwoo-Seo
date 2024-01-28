@@ -1,4 +1,4 @@
-
+<!--
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Storyboard](https://img.shields.io/badge/Storyboard-orange?style=flat&logo=swift&logoColor=white)
@@ -16,7 +16,7 @@
 [![Router-Pattern](https://img.shields.io/badge/Router%20Pattern-blue)](https://your-link-here)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=flat&logo=github)
-
+-->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seungwoo-Seo&show_icons=true&hide_title=true&hide=contribs,prs&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungwoo-Seo&layout=compact)
 
